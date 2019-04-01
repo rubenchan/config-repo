@@ -4,4 +4,4 @@ eureka:
       defaultZone: http://localhost:19990/eureka/,http://localhost:19991/eureka/
 
 hello:
-  world: hi ruben..
+  world: hi ruben
