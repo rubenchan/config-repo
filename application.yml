@@ -1,7 +1,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:19990/eureka/,http://localhost:19991/eureka/
+      defaultZone: http://hi:ruben@localhost:19990/eureka/,http://hi:ruben@localhost:19991/eureka/
 spring:
   rabbitmq:
     host: localhost
